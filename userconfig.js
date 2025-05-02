@@ -25,7 +25,13 @@ const default_config = {
               url: "https://www.facebook.com/",
               icon: "brand-facebook",
               icon_color: palette.green,
-            }
+            },
+            {
+              name: "twitter",
+              url: "https://x.com",
+              icon: "brand-x",
+              icon_color: palette.text,
+            },
           ],
         },
         {
@@ -43,12 +49,6 @@ const default_config = {
               icon: "brand-reddit",
               icon_color: palette.peach,
             },
-            {
-              name: "twitter",
-              url: "https://x.com",
-              icon: "brand-x",
-              icon_color: palette.text,
-            },
           ],
         },
         {
@@ -56,19 +56,19 @@ const default_config = {
           links: [
             {
               name: "github",
-              url: "https://github.com/ashish0kumar",
+              url: "https://github.com/blindmodz?tab=stars",
               icon: "brand-github",
               icon_color: palette.green,
             },
             {
-              name: "devdocs",
-              url: "https://devdocs.io",
+              name: "anilist",
+              url: "https://anilist.co/home",
               icon: "code",
               icon_color: palette.blue,
             },
             {
-              name: "hacker-news",
-              url: "https://news.ycombinator.com",
+              name: "mangadex",
+              url: "https://mangadex.org/",
               icon: "news",
               icon_color: palette.peach,
             },
@@ -78,45 +78,22 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "leetcode",
-              url: "https://leetcode.com/u/ashish0kumar/",
+              name: "myanimelist",
+              url: "https://myanimelist.net/",
               icon: "brand-leetcode",
               icon_color: palette.yellow,
             },
             {
-              name: "dsa",
-              url: "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2",
+              name: "osu",
+              url: "https://osu.ppy.sh/",
               icon: "binary-tree",
               icon_color: palette.red,
             },
             {
               name: "udemy",
-              url: "https://www.udemy.com/home/my-courses/learning/",
+              url: "https://www.miruro.tv/",
               icon: "certificate",
               icon_color: palette.lavender,
-            },
-          ]
-        },
-        {
-          name: "",
-          links: [
-            {
-              name: "chatgpt",
-              url: "https://chatgpt.com/",
-              icon: "brand-openai",
-              icon_color: palette.teal,
-            },
-            {
-              name: "claude",
-              url: "https://claude.ai/new",
-              icon: "north-star",
-              icon_color: palette.peach,
-            },
-            {
-              name: "gemini",
-              url: "https://gemini.google.com/app",
-              icon: "flare",
-              icon_color: palette.blue,
             },
           ]
         },
