@@ -18,13 +18,13 @@ const default_config = {
               name: "instagram",
               url: "https://www.instagram.com",
               icon: "brand-instagram",
-              icon_color: palette.blue,
+              icon_color: palette.red,
             },
             {
               name: "facebook",
               url: "https://www.facebook.com/",
               icon: "brand-facebook",
-              icon_color: palette.green,
+              icon_color: palette.blue,
             },
             {
               name: "twitter",
@@ -47,19 +47,19 @@ const default_config = {
               name: "reddit",
               url: "https://www.reddit.com/",
               icon: "brand-reddit",
-              icon_color: palette.peach,
+              icon_color: palette.red,
+            },
+            {
+              name: "github",
+              url: "https://github.com/blindmodz?tab=stars",
+              icon: "brand-github",
+              icon_color: palette.text,
             },
           ],
         },
         {
           name: "",
           links: [
-            {
-              name: "github",
-              url: "https://github.com/blindmodz?tab=stars",
-              icon: "brand-github",
-              icon_color: palette.green,
-            },
             {
               name: "anilist",
               url: "https://anilist.co/home",
@@ -70,7 +70,13 @@ const default_config = {
               name: "mangadex",
               url: "https://mangadex.org/",
               icon: "book",
-              icon_color: palette.peach,
+              icon_color: palette.teal,
+            },
+            {
+              name: "miruro",
+              url: "https://www.miruro.tv/",
+              icon: "device-tv",
+              icon_color: palette.peach
             },
           ],
         },
