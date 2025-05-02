@@ -63,13 +63,13 @@ const default_config = {
             {
               name: "anilist",
               url: "https://anilist.co/home",
-              icon: "book-open",
+              icon: "book",
               icon_color: palette.blue,
             },
             {
               name: "mangadex",
               url: "https://mangadex.org/",
-              icon: "book-open",
+              icon: "book",
               icon_color: palette.peach,
             },
           ],
@@ -80,7 +80,7 @@ const default_config = {
             {
               name: "myanimelist",
               url: "https://myanimelist.net/",
-              icon: "book-open",
+              icon: "book",
               icon_color: palette.yellow,
             },
             {
