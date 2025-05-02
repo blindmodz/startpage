@@ -63,13 +63,13 @@ const default_config = {
             {
               name: "anilist",
               url: "https://anilist.co/home",
-              icon: "code",
+              icon: "book-open",
               icon_color: palette.blue,
             },
             {
               name: "mangadex",
               url: "https://mangadex.org/",
-              icon: "news",
+              icon: "book-open",
               icon_color: palette.peach,
             },
           ],
@@ -80,20 +80,14 @@ const default_config = {
             {
               name: "myanimelist",
               url: "https://myanimelist.net/",
-              icon: "brand-leetcode",
+              icon: "book-open",
               icon_color: palette.yellow,
             },
             {
               name: "osu",
               url: "https://osu.ppy.sh/",
-              icon: "binary-tree",
+              icon: "music",
               icon_color: palette.red,
-            },
-            {
-              name: "udemy",
-              url: "https://www.miruro.tv/",
-              icon: "certificate",
-              icon_color: palette.lavender,
             },
           ]
         },
