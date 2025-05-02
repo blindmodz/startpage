@@ -70,13 +70,13 @@ const default_config = {
               name: "mangadex",
               url: "https://mangadex.org/",
               icon: "book",
-              icon_color: palette.teal,
+              icon_color: palette.lavender,
             },
             {
               name: "miruro",
               url: "https://www.miruro.tv/",
               icon: "device-tv",
-              icon_color: palette.peach
+              icon_color: palette.brown
             },
           ],
         },
@@ -87,13 +87,13 @@ const default_config = {
               name: "myanimelist",
               url: "https://myanimelist.net/",
               icon: "book",
-              icon_color: palette.yellow,
+              icon_color: palette.blue,
             },
             {
               name: "osu",
               url: "https://osu.ppy.sh/",
               icon: "music",
-              icon_color: palette.red,
+              icon_color: palette.pink,
             },
           ]
         },
