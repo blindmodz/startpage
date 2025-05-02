@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
@@ -15,23 +15,17 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "gmail",
-              url: "https://mail.google.com",
-              icon: "brand-gmail",
+              name: "instagram",
+              url: "https://www.instagram.com",
+              icon: "brand-instagram",
               icon_color: palette.blue,
             },
             {
-              name: "classroom",
-              url: "https://classroom.google.com/u/1/",
-              icon: "books",
+              name: "facebook",
+              url: "https://www.facebook.com/",
+              icon: "brand-facebook",
               icon_color: palette.green,
-            },
-            {
-              name: "docs",
-              url: "https://docs.google.com/document/u/0/",
-              icon: "file-text",
-              icon_color: palette.blue,
-            },
+            }
           ],
         },
         {
