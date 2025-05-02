@@ -76,7 +76,7 @@ const default_config = {
               name: "miruro",
               url: "https://www.miruro.tv/",
               icon: "device-tv",
-              icon_color: palette.#985328,
+              icon_color: palette.maroon,
             },
           ],
         },
