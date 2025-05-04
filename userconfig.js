@@ -50,11 +50,11 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "github",
-              url: "https://github.com/blindmodz?tab=stars",
-              icon: "brand-github",
-              icon_color: palette.text,
-            },
+              name: "gmail",
+              url: "https://mail.google.com/mail/u/0/#inbox",
+              icon: "brand-gmail",
+              icon_color: palette.red,
+            }
           ],
         },
         {
@@ -73,10 +73,10 @@ const default_config = {
               icon_color: palette.lavender,
             },
             {
-              name: "miruro",
-              url: "https://www.miruro.tv/",
-              icon: "device-tv",
-              icon_color: palette.maroon,
+              name: "myanimelist",
+              url: "https://myanimelist.net/",
+              icon: "book",
+              icon_color: palette.blue,
             },
           ],
         },
@@ -84,10 +84,16 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "myanimelist",
-              url: "https://myanimelist.net/",
-              icon: "book",
-              icon_color: palette.blue,
+              name: "miruro",
+              url: "https://www.miruro.tv/",
+              icon: "device-tv",
+              icon_color: palette.maroon,
+            },
+            {
+              name: "github",
+              url: "https://github.com/blindmodz?tab=stars",
+              icon: "brand-github",
+              icon_color: palette.text,
             },
             {
               name: "osu",
