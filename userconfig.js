@@ -73,6 +73,12 @@ const default_config = {
               icon_color: palette.lavender,
             },
             {
+              name: "weeb central",
+              url: "https://weebcentral.com/",
+              icon: "book",
+              icon_color: palette.lavender,
+            },
+            {
               name: "myanimelist",
               url: "https://myanimelist.net/",
               icon: "book",
