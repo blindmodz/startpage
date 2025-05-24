@@ -90,8 +90,8 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "miruro",
-              url: "https://www.miruro.tv/",
+              name: "anime nexus",
+              url: "https://anime.nexus/",
               icon: "device-tv",
               icon_color: palette.maroon,
             },
