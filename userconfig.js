@@ -107,6 +107,12 @@ const default_config = {
               icon: "music",
               icon_color: palette.pink,
             },
+            {
+              name: "nyaa",
+              url: "https://nyaa.si/",
+              icon: "download",
+              icon_color: palette.text,
+            },
           ]
         },
       ],
