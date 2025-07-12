@@ -70,6 +70,8 @@ You can use different add-ons/extensions for it
 - If you use Firefox: [Custom New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/?src=search) and make sure you enable "Force links to open in the top frame (experimental)" in the extension's preferences page
 - If you use Chromium (Brave / Chrome): [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia)
 
+- **zen.urlbar.replace-newtab on about:config
+
 ### 🖼️ Available banners
 
 | cbg-2                                           | cbg-3                                           | cbg-4                                           | cbg-5                                           |
