@@ -91,7 +91,7 @@ const default_config = {
           links: [
             {
               name: "animekai",
-              url: "https://anikai.to/browser?keyword=&status%5B%5D=releasing&status%5B%5D=completed&sort=updated_date",
+              url: "https://anikai.to/browser?keyword=&status%5B%5D=releasing&status%5B%5D=completed&sort=updated_date&country%5B%5D=11",
               icon: "device-tv",
               icon_color: palette.maroon,
             },
