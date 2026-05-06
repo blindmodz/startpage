@@ -44,6 +44,12 @@ const default_config = {
               icon_color: palette.red,
             },
             {
+              name: "stremio",
+              url: "https://web.stremio.com/#/",
+              icon: "device-tv",
+              icon_color: palette.red,
+            },
+            {
               name: "reddit",
               url: "https://www.reddit.com/",
               icon: "brand-reddit",
