@@ -96,8 +96,8 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "animekai",
-              url: "https://anikai.to/browser?keyword=&status%5B%5D=releasing&status%5B%5D=completed&sort=updated_date&country%5B%5D=11",
+              name: "anime-nexus",
+              url: "https://anime.nexus/schedule",
               icon: "device-tv",
               icon_color: palette.maroon,
             },
