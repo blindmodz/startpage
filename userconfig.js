@@ -67,6 +67,12 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
+              name: "myanimelist",
+              url: "https://myanimelist.net/",
+              icon: "book",
+              icon_color: palette.blue,
+            },
+            {
               name: "mangadex",
               url: "https://mangadex.org/",
               icon: "book",
@@ -77,12 +83,6 @@ const default_config = {
               url: "https://weebcentral.com/",
               icon: "book",
               icon_color: palette.lavender,
-            },
-            {
-              name: "myanimelist",
-              url: "https://myanimelist.net/",
-              icon: "book",
-              icon_color: palette.blue,
             },
           ],
         },
