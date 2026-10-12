@@ -90,8 +90,8 @@ const default_config = {
           name: "",
           links: [
             {
-              name: "anime-nexus",
-              url: "https://anime.nexus/schedule",
+              name: "hianime",
+              url: "https://hianime.at/",
               icon: "device-tv",
               icon_color: palette.maroon,
             },
